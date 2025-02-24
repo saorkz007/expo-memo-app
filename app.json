@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-memo",
-    "slug": "react-native-memo",
+    "name": "メモ",
+    "slug": "expo-memo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,10 +10,10 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#d3d4d4"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false
     },
     "android": {
       "adaptiveIcon": {
@@ -23,6 +23,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": ["expo-router", "expo-sqlite"],
+    "scheme": "expo-memo-app"
   }
 }
