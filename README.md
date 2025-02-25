@@ -10,13 +10,12 @@
 
 | ホーム | ラベル作成 | メモ一覧 | ラベル設定 |
 |---|---|---|---|
-| ![](./screenshots/ホーム.png) | ![](./screenshots/ラベル作成.png) | ![](./screenshots/メモ一覧.png) | ![](./screenshots/メモ一覧-ラベル設定.png) |
-
+| <img src="./screenshots/ホーム.png" width="200"> | <img src="./screenshots/ラベル作成.png" width="200"> | <img src="./screenshots/メモ一覧.png" width="200"> | <img src="./screenshots/メモ一覧-ラベル設定.png" width="200"> |
 
 ---
 
-## デモ動画（オプション）
-![](./screenshots/app-record.gif)
+## デモ動画
+<img src="./screenshots/app-record.gif" width="200">
 
 ---
 
